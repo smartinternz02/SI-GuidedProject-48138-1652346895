@@ -11,9 +11,6 @@ Solution Requirement:-
 
 A Machine Learning Model for calculating CO2 emission by country, Due to the increasingly deteriorating environment, it is time the government to upgrade the energy consumption structure.
 
-
 Installed packages and libraries:- Anaconda Navigator, Jupyter, Numpy, Pandas, Matplotlib, Scikit-Learn
-
-Demonstration Video:- 
 
 Report:- https://docs.google.com/document/d/1W7fAJyPUE92c4DkYNSeXANXE9PhlDcFZ/edit?usp=sharing&ouid=105188177589237577926&rtpof=true&sd=true
