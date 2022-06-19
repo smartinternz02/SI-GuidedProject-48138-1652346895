@@ -15,4 +15,4 @@ Installed packages and libraries:-
 
 Anaconda Navigator, Jupyter, Numpy, Pandas, Matplotlib, Scikit-Learn
 
-Report:- https://docs.google.com/document/d/1W7fAJyPUE92c4DkYNSeXANXE9PhlDcFZ/edit?usp=sharing&ouid=105188177589237577926&rtpof=true&sd=true
+Report:- https://drive.google.com/file/d/1FRR8GDM7PzCxqUvChD3AMZK-o4ogG00-/view?usp=sharing
