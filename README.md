@@ -1,6 +1,6 @@
 # SI-GuidedProject-4865-1627386486
 
-# Co2-emission-prediction-using-IBM-watson
+# Prediction of Co2 Emissions by Country
 Introduction:-
 
 Carbon emissions and environmental protection issues have brought pressure from the international community during Chinese economic development. Recently, Chinese Government announced that carbon emissions per unit of GDP would fall by 60–65% compared with 2005 and non-fossil fuel energy would account for 20% of primary energy consumption by 2030.The Beijing-Tianjin-Hebei region is an important regional energy consumption center in China, and its energy structure is typically coal-based which is similar to the whole country.
