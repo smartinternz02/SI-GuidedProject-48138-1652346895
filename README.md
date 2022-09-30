@@ -17,6 +17,4 @@ Anaconda Navigator, Jupyter, Numpy, Pandas, Matplotlib, Scikit-Learn
 
 Dataset:- https://drive.google.com/drive/folders/1H36lxbUC24LRllNY110bNG--S9RuSGE5?usp=sharing
 
-Demonstration Video:- https://drive.google.com/file/d/1D7M2d5sDGi1WY7vMkF7QCSpW1bGgQ_rK/view?usp=sharing
-
 Report:- https://drive.google.com/file/d/1FRR8GDM7PzCxqUvChD3AMZK-o4ogG00-/view?usp=sharing
